@@ -1,0 +1,1 @@
+Los 10 ejercicios están en el mismo archivo.java. Simplemente habría que quitar el símbolo /* y */
